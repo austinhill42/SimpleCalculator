@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		D9480CCB202B35B200FDBD98 /* MathParser.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D9480CCC202B35B200FDBD98 /* MathParser.framework */; };
-		D9480CCD202B366600FDBD98 /* MathParser.framework in Sources */ = {isa = PBXBuildFile; fileRef = D9480CCC202B35B200FDBD98 /* MathParser.framework */; };
 		D970720B201D694E00967866 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D970720A201D694E00967866 /* AppDelegate.swift */; };
 		D970720D201D694E00967866 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D970720C201D694E00967866 /* ViewController.swift */; };
 		D9707210201D694E00967866 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D970720E201D694E00967866 /* Main.storyboard */; };
@@ -219,7 +218,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D9480CCD202B366600FDBD98 /* MathParser.framework in Sources */,
 				D970720D201D694E00967866 /* ViewController.swift in Sources */,
 				D9707213201D694E00967866 /* Simple_Calculator.xcdatamodeld in Sources */,
 				D970720B201D694E00967866 /* AppDelegate.swift in Sources */,
